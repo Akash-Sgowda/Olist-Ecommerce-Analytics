@@ -85,7 +85,7 @@ Without structured analytics, identifying high-performing segments and operation
 
 ## 📸 Dashboard Preview
 
-![Olist Dashboard](Ecommerce(olist)%20Analytics.png)
+![Olist Dashboard]([Ecommerce(olist)%20Analytics.png](https://github.com/Akash-Sgowda/Olist-Ecommerce-Analytics/blob/main/Ecommerce(olist)%20Analytics.png))
 
 ---
 
